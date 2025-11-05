@@ -1,8 +1,5 @@
 # MOFs: Machine Learning for Discovery of Metal–Organic Frameworks (MOFs) for Gas Separation Applications  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)](https://xgboost.readthedocs.io/)  
-[![Build Status](https://img.shields.io/badge/Status-Active-success)](#)  
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  [![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)](https://xgboost.readthedocs.io/)  [![Build Status](https://img.shields.io/badge/Status-Active-success)](#)  
 
 ---
 
@@ -112,3 +109,9 @@ Source: *“Understanding the diversity of the metal–organic framework ecosyst
     'reg_lambda': 1e-6,
     'subsample': 1.0
   }
+
+✅ **convergence of Bayesian Optimization (BO):**
+<p align="center"> <img src="images/Bayesian_optimization_convergence.png" width="70%">
+
+✅ **Based on the optimization, the 15 important parameters:**
+<p align="center"> <img src="images/Important_Features.png" width="70%">
